@@ -1,5 +1,5 @@
 import streamlit as s
-"""
+bg='''
 <style>
 s.stApp {
     background-image: url("Screenshot 2025-04-24 123117.png");
