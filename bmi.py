@@ -19,12 +19,12 @@ elif bmi<25:
     s.info(f"{bmi}")
     s.info("overweight")
     s.warning("diet please?")
-    s.image("chubby.png")
+    s.image("chubby walter.png")
 elif bmi<30:
     s.info(f"{bmi}")
     s.info("fat")
     s.error("you make a sumo wrestler look like a supermodel")
-    s.image("brainrot.png")
+    s.image("brainrot have skibidi rizz.png")
 else:
     s.info(f"{bmi}")
     s.info("very fat... infact,u r caseoh reincarnate")
