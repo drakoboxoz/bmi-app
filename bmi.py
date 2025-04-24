@@ -1,5 +1,7 @@
 import streamlit as s
-s.bg=("Screenshot 2025-04-24 123117.png")
+s.stApp {
+    background-image:("Screenshot 2025-04-24 123117.png")
+}
 s.title("bmi calculator")
 h=0.00
 w=0
