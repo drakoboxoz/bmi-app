@@ -1,12 +1,9 @@
 import streamlit as s
-bg="""
+bgl="""
 <style>
 s.stApp {
-    background-image: url("Screenshot 2025-04-24 123117.png");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-color: #FF0000;
+    color: #FFFFFF;
 }
 </style>
 """
