@@ -1,6 +1,11 @@
 import streamlit as s
+bg="""
+<style>
 s.stApp {
-    background-image:("Screenshot 2025-04-24 123117.png")
+    background-image: url("Screenshot 2025-04-24 123117.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 s.title("bmi calculator")
 h=0.00
