@@ -1,5 +1,5 @@
 import streamlit as s
-s.bg="""
+s.bg=("Screenshot 2025-04-24 123117.png")
 <style>
 s.stApp {
      background-image: image("Screenshot 2025-04-24 123117.png");
@@ -7,7 +7,6 @@ s.stApp {
      background-repeat:no-repeat;
      }
      </style>
-     """
 s.title("bmi calculator")
 h=0.00
 w=0
