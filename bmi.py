@@ -1,8 +1,10 @@
 import streamlit as s
 s.bg="""
 <style>
-s.stapp {
-     background-image: image("Screenshot 2025-04-24 123117.png")
+s.stApp {
+     background-image: image("Screenshot 2025-04-24 123117.png");
+     background-position:center;
+     background-repeat:no-repeat;
      }
      </style>
      """
